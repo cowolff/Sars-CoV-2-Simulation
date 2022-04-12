@@ -7,5 +7,5 @@ In order to simulate crowds i developed a novel layer-based approach based on [t
 ## Simulating the coronavirus
 The probability of infection was calculated based mainly on [this paper published by Agrawal et al.](https://pubmed.ncbi.nlm.nih.gov/33746492/) The probability in this simulation was influenced by the distance between to agents and the kind of masks (or lack there of) they are wearing.
 
-## Modulare Approach
+## Modular Approach
 This program is designed in a way that interested users can also start putting together their own simulation environments, though there are some limitations. For example there is still no option to change the width of the hallways etc. because of a lack of time.
